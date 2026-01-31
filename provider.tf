@@ -7,5 +7,5 @@ terraform {
   }
 }
 provider "aws" {
-  profile                  = "default"
+  profile = "default"
 }
